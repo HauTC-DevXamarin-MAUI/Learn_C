@@ -18,9 +18,9 @@ namespace Else_Loop
             //Mang();
             //MangVaGTLN();
             //ThucHienDeleteA();
-            //ThucHienInChuoi();
+            ThucHienInChuoi();
             //cau11();
-            MaHoa();
+            //MaHoa();
             Console.ReadLine();
         }
 
@@ -41,7 +41,7 @@ namespace Else_Loop
             Console.Write("Nhap c: ");
             c = float.Parse(Console.ReadLine());
 
-            float max=Max(a,Max(b,c));
+            float max = Max(a,Max(b,c));
 
             Console.WriteLine("So lon nhat trong {0}|{1}|{2} la: {3}",a,b,c,max);
         }
@@ -313,7 +313,7 @@ namespace Else_Loop
             Console.Write("CMoi ban nhap chuoi: ");
             a = Console.ReadLine();
             InChuoiTrenTungDong(ref a);
-            Console.WriteLine("Chuoi moi la: {0}\n",a);
+            Console.WriteLine("Chuoi moi la:\n {0}",a);
             
         }
 
@@ -322,7 +322,7 @@ namespace Else_Loop
         #region Cau 11. Viet ctrinh ktra chuoi co doi xung hay k
         static bool isKtraChuoiDoiXung(string a)
         {
-            for (int i = 0; i < a.Length/2; i++)
+            for (int i = 0; i <= a.Length/2; i++)
             {
                 if (a[i] != a[a.Length - 1- i])
                     return false;

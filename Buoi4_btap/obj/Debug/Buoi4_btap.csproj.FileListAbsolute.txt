@@ -1,0 +1,6 @@
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\Buoi4_btap\bin\Debug\Buoi4_btap.exe.config
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\Buoi4_btap\obj\Debug\Buoi4_btap.csprojResolveAssemblyReference.cache
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\Buoi4_btap\bin\Debug\Buoi4_btap.exe
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\Buoi4_btap\bin\Debug\Buoi4_btap.pdb
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\Buoi4_btap\obj\Debug\Buoi4_btap.exe
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\Buoi4_btap\obj\Debug\Buoi4_btap.pdb

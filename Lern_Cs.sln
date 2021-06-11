@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funttion_String_Array", "Fu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Else_Loop", "Else_Loop\Else_Loop.csproj", "{15FEA215-3347-4AEC-99EC-09A0AFE0F708}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buoi4_Struct_Enum_Class", "buoi4_Struct_Enum_Class\buoi4_Struct_Enum_Class.csproj", "{6FD71DF8-2C99-4809-9A03-463586456530}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi4_btap", "Buoi4_btap\Buoi4_btap.csproj", "{58DA4FE5-E213-4F3C-9B74-C386B3027B50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,14 @@ Global
 		{15FEA215-3347-4AEC-99EC-09A0AFE0F708}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15FEA215-3347-4AEC-99EC-09A0AFE0F708}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15FEA215-3347-4AEC-99EC-09A0AFE0F708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FD71DF8-2C99-4809-9A03-463586456530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FD71DF8-2C99-4809-9A03-463586456530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FD71DF8-2C99-4809-9A03-463586456530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FD71DF8-2C99-4809-9A03-463586456530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58DA4FE5-E213-4F3C-9B74-C386B3027B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58DA4FE5-E213-4F3C-9B74-C386B3027B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58DA4FE5-E213-4F3C-9B74-C386B3027B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58DA4FE5-E213-4F3C-9B74-C386B3027B50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,6 @@
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\buoi4_Struct_Enum_Class\bin\Debug\buoi4_Struct_Enum_Class.exe.config
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\buoi4_Struct_Enum_Class\bin\Debug\buoi4_Struct_Enum_Class.exe
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\buoi4_Struct_Enum_Class\bin\Debug\buoi4_Struct_Enum_Class.pdb
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\buoi4_Struct_Enum_Class\obj\Debug\buoi4_Struct_Enum_Class.csprojResolveAssemblyReference.cache
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\buoi4_Struct_Enum_Class\obj\Debug\buoi4_Struct_Enum_Class.exe
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\buoi4_Struct_Enum_Class\obj\Debug\buoi4_Struct_Enum_Class.pdb
