@@ -1,0 +1,6 @@
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\Lern_Cs\bin\Debug\Lern_Cs.exe.config
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\Lern_Cs\bin\Debug\Lern_Cs.exe
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\Lern_Cs\bin\Debug\Lern_Cs.pdb
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\Lern_Cs\obj\Debug\Buoi1.csprojResolveAssemblyReference.cache
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\Lern_Cs\obj\Debug\Lern_Cs.exe
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\Lern_Cs\obj\Debug\Lern_Cs.pdb

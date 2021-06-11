@@ -1,0 +1,6 @@
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\Funttion_String_Array\bin\Debug\Funttion_String_Array.exe.config
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\Funttion_String_Array\bin\Debug\Funttion_String_Array.exe
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\Funttion_String_Array\bin\Debug\Funttion_String_Array.pdb
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\Funttion_String_Array\obj\Debug\Funttion_String_Array.csprojResolveAssemblyReference.cache
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\Funttion_String_Array\obj\Debug\Funttion_String_Array.exe
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\Funttion_String_Array\obj\Debug\Funttion_String_Array.pdb
