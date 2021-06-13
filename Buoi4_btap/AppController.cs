@@ -40,6 +40,9 @@ namespace Buoi4_btap
             string[] temp = new string[2];
             if (!Usercommand.Contains(' '))
             {
+                //abc
+                //=>stemp[0]=abc
+                //=>stemp[1]=""
                 temp[0] = Usercommand.ToUpper();
                 temp[1] = "";
             }

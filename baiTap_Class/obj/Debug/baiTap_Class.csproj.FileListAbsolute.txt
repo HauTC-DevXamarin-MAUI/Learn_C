@@ -1,0 +1,6 @@
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\baiTap_Class\bin\Debug\baiTap_Class.exe.config
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\baiTap_Class\bin\Debug\baiTap_Class.exe
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\baiTap_Class\bin\Debug\baiTap_Class.pdb
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\baiTap_Class\obj\Debug\baiTap_Class.csprojResolveAssemblyReference.cache
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\baiTap_Class\obj\Debug\baiTap_Class.exe
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\baiTap_Class\obj\Debug\baiTap_Class.pdb

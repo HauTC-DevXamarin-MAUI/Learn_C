@@ -8,6 +8,7 @@ namespace Buoi4_btap
 {//quan ly ds bai hat va cac tthao tac trten bai hat
     class SongManager
     {
+        //tao DS chua cac bai hat
         private List<Song> lstSong = new List<Song>();
 
 

@@ -1,0 +1,6 @@
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\BaiTtapClass\bin\Debug\BaiTtapClass.exe.config
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\BaiTtapClass\bin\Debug\BaiTtapClass.exe
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\BaiTtapClass\bin\Debug\BaiTtapClass.pdb
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\BaiTtapClass\obj\Debug\BaiTtapClass.csprojResolveAssemblyReference.cache
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\BaiTtapClass\obj\Debug\BaiTtapClass.exe
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\BaiTtapClass\obj\Debug\BaiTtapClass.pdb
