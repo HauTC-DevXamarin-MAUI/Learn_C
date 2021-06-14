@@ -52,7 +52,7 @@ namespace BaiTtapClass
                 this.lyDo = lyDo;
                
             }
-        }
+         }
         // luon luon cong len
         public void CapNhatTongTien(float tien)
         {
@@ -67,7 +67,7 @@ namespace BaiTtapClass
         //Show ra cac khoan chi
         public void XemCacKhoanDaChi(string mucChiTieu1=null)
         {
-            Console.WriteLine("Chi Cho:{0} ", mucChiTieu1 ?? null);
+            Console.WriteLine("Chi Cho:{0} ", mucChiTieu1 ?? null);//?? ktra null hay k
             foreach (ThongTinChiTien item in DanhSachChi)
             {
                 if (item != null && (mucChiTieu1==null||(mucChiTieu1!=null&&item.mucChiTieu.Equals(mucChiTieu1)) ))
@@ -91,7 +91,7 @@ namespace BaiTtapClass
 
         public void ChiTien(string mucChi,float soTienCanChi,string lyDo=null)
         {
-            if (tongTien - soTienCanChi < 0)
+            if (TongTien - soTienCanChi < 0)
             {
                 Console.WriteLine("Khong the chi qua so tien con lai trog tk");
                 return;
@@ -101,7 +101,7 @@ namespace BaiTtapClass
                 ThongTinChiTien newChi = new ThongTinChiTien(mucChi,soTienCanChi,lyDo);
                 DanhSachChi.Add(newChi);
 
-                tongTien -= soTienCanChi;
+                TongTien -= soTienCanChi;
 
                 Console.WriteLine("Da chi cho viec {0} thanh cong. So tien {1}. Ly do: {2}. ",mucChi,soTienCanChi,lyDo);
                 XemSoTienTrongTK(); 

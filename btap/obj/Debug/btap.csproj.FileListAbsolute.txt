@@ -1,0 +1,6 @@
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\btap\bin\Debug\btap.exe.config
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\btap\bin\Debug\btap.exe
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\btap\bin\Debug\btap.pdb
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\btap\obj\Debug\btap.csprojResolveAssemblyReference.cache
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\btap\obj\Debug\btap.exe
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\btap\obj\Debug\btap.pdb

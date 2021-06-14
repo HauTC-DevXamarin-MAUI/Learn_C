@@ -50,7 +50,7 @@ namespace Buoi4_btap
             {
 
                 temp[0] = Usercommand.Substring(0, Usercommand.IndexOf(' '));
-                temp[1] = Usercommand.Substring(Usercommand.IndexOf(' ') + 1);
+                temp[1] = Usercommand.Substring(Usercommand.IndexOf(' ') + 1);//bvcbvc bvfsg/ +1 vi lui 1 kitu khoantrang
             }
                 string cmd = temp[0].ToUpper();
                 if (cmd.Equals("BH"))

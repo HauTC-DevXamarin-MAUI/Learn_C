@@ -9,14 +9,13 @@ namespace baiTap_Class
     class StopTime
     {
         private int phut = 0;
-
         public int Phut
         {
             get { return phut; }
             set { phut = value; }
         }
-        private int giay = 0;
 
+        private int giay = 0;
         public int Giay
         {
             get { return giay; }
@@ -32,6 +31,7 @@ namespace baiTap_Class
 
             }
         }
+
         private bool isResume = true;
 
         //Constructor
