@@ -1,0 +1,6 @@
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\XoaKhoaTrangThua\bin\Debug\XoaKhoaTrangThua.exe.config
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\XoaKhoaTrangThua\bin\Debug\XoaKhoaTrangThua.exe
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\XoaKhoaTrangThua\bin\Debug\XoaKhoaTrangThua.pdb
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\XoaKhoaTrangThua\obj\Debug\XoaKhoaTrangThua.csprojResolveAssemblyReference.cache
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\XoaKhoaTrangThua\obj\Debug\XoaKhoaTrangThua.exe
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\XoaKhoaTrangThua\obj\Debug\XoaKhoaTrangThua.pdb

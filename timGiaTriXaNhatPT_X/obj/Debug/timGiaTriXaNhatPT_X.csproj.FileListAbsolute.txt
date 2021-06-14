@@ -1,0 +1,6 @@
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\timGiaTriXaNhatPT_X\bin\Debug\timGiaTriXaNhatPT_X.exe.config
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\timGiaTriXaNhatPT_X\bin\Debug\timGiaTriXaNhatPT_X.exe
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\timGiaTriXaNhatPT_X\bin\Debug\timGiaTriXaNhatPT_X.pdb
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\timGiaTriXaNhatPT_X\obj\Debug\timGiaTriXaNhatPT_X.csprojResolveAssemblyReference.cache
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\timGiaTriXaNhatPT_X\obj\Debug\timGiaTriXaNhatPT_X.exe
+C:\Users\CongHau\Desktop\Learn_Code\C#\Lern_Cs\timGiaTriXaNhatPT_X\obj\Debug\timGiaTriXaNhatPT_X.pdb
